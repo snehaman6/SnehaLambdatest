@@ -28,3 +28,31 @@
 2024-01-21 20:50:28,940 : INFO : test_login_01 : Entering Password--->@1234
 2024-01-21 20:50:29,022 : INFO : test_login_01 : Clicking on Login button
 2024-01-21 20:50:30,993 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-22 20:07:28,585 : INFO : test_registration_02 : Testcase test_registration_02  is started
+2024-01-22 20:07:28,600 : INFO : test_registration_02 : Click on Register button
+2024-01-22 20:07:31,232 : INFO : test_registration_02 : Enter First name
+2024-01-22 20:07:31,478 : INFO : test_registration_02 : Enter Last name
+2024-01-22 20:07:31,593 : INFO : test_registration_02 : Entering Email--->Selenium_python@gmail.com
+2024-01-22 20:07:31,594 : INFO : test_registration_02 : Enter Mobile Number
+2024-01-22 20:07:31,714 : INFO : test_registration_02 : Entering Password--->@1234
+2024-01-22 20:07:31,818 : INFO : test_registration_02 : Click on Radio button
+2024-01-22 20:07:31,896 : INFO : test_registration_02 : Click on Checkbox
+2024-01-22 20:07:31,975 : INFO : test_registration_02 : Click on Continue button
+2024-01-22 20:07:33,061 : INFO : test_registration_02 : Testcase test_registration_02  is Passed
+2024-01-22 20:09:23,966 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-22 20:09:23,966 : INFO : test_login_01 : Invoking Browser
+2024-01-22 20:09:23,966 : INFO : test_login_01 : Entering Email--->Selenium_python@gmail.com
+2024-01-22 20:09:24,130 : INFO : test_login_01 : Entering Password--->@1234
+2024-01-22 20:09:24,232 : INFO : test_login_01 : Clicking on Login button
+2024-01-22 20:09:26,634 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-22 20:09:34,933 : INFO : test_registration_02 : Testcase test_registration_02  is started
+2024-01-22 20:09:34,934 : INFO : test_registration_02 : Click on Register button
+2024-01-22 20:09:37,232 : INFO : test_registration_02 : Enter First name
+2024-01-22 20:09:37,370 : INFO : test_registration_02 : Enter Last name
+2024-01-22 20:09:37,484 : INFO : test_registration_02 : Entering Email--->Selenium_python@gmail.com
+2024-01-22 20:09:37,484 : INFO : test_registration_02 : Enter Mobile Number
+2024-01-22 20:09:37,598 : INFO : test_registration_02 : Entering Password--->@1234
+2024-01-22 20:09:37,699 : INFO : test_registration_02 : Click on Radio button
+2024-01-22 20:09:37,784 : INFO : test_registration_02 : Click on Checkbox
+2024-01-22 20:09:37,862 : INFO : test_registration_02 : Click on Continue button
+2024-01-22 20:09:38,585 : INFO : test_registration_02 : Testcase test_registration_02  is Passed
