@@ -1,0 +1,30 @@
+2024-01-21 13:29:22,079 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-21 13:29:22,079 : INFO : test_login_01 : Invoking Browser
+2024-01-21 13:29:22,079 : INFO : test_login_01 : Entering Email
+2024-01-21 13:29:22,248 : INFO : test_login_01 : Entering Password
+2024-01-21 13:29:22,339 : INFO : test_login_01 : Clicking on Login button
+2024-01-21 13:29:24,506 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-21 15:55:45,377 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-21 15:55:45,377 : INFO : test_login_01 : Invoking Browser
+2024-01-21 15:55:45,378 : INFO : test_login_01 : Entering Email
+2024-01-21 15:55:45,570 : INFO : test_login_01 : Entering Password
+2024-01-21 15:55:45,673 : INFO : test_login_01 : Clicking on Login button
+2024-01-21 15:55:47,918 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-21 15:57:18,460 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-21 15:57:18,460 : INFO : test_login_01 : Invoking Browser
+2024-01-21 15:57:18,461 : INFO : test_login_01 : Entering Email
+2024-01-21 15:57:21,133 : INFO : test_login_01 : Entering Password
+2024-01-21 15:57:21,231 : INFO : test_login_01 : Clicking on Login button
+2024-01-21 15:57:23,878 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-21 16:30:51,597 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-21 16:30:51,597 : INFO : test_login_01 : Invoking Browser
+2024-01-21 16:30:51,597 : INFO : test_login_01 : Entering Email
+2024-01-21 16:30:51,836 : INFO : test_login_01 : Entering Password
+2024-01-21 16:30:51,923 : INFO : test_login_01 : Clicking on Login button
+2024-01-21 16:30:54,090 : INFO : test_login_01 : Testcase test_login_01 is Passed
+2024-01-21 20:50:28,776 : INFO : test_login_01 : Testcase test_login_01 is started
+2024-01-21 20:50:28,777 : INFO : test_login_01 : Invoking Browser
+2024-01-21 20:50:28,777 : INFO : test_login_01 : Entering Email--->Selenium_python@gmail.com
+2024-01-21 20:50:28,940 : INFO : test_login_01 : Entering Password--->@1234
+2024-01-21 20:50:29,022 : INFO : test_login_01 : Clicking on Login button
+2024-01-21 20:50:30,993 : INFO : test_login_01 : Testcase test_login_01 is Passed
